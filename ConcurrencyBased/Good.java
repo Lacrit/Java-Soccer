@@ -1,4 +1,3 @@
-package ex1;
 
 public class Good {
 	public double weight;
