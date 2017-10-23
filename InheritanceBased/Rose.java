@@ -1,4 +1,3 @@
-package zad2;
 
 public class Rose extends Flowers {
 
