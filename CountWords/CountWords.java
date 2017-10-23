@@ -1,10 +1,4 @@
-/**
- *
- *  @author Voitenkova Anna S15486
- *
- */
 
-package zad2;
 
 import java.io.BufferedReader;
 import java.io.File;
