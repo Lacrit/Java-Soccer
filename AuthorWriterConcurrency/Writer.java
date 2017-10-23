@@ -1,11 +1,3 @@
-/**
- *
- *  @author Voitenkova Anna S15486
- *
- */
-
-package ex2;
-
 
 public class Writer implements Runnable {
 	private Author author;
