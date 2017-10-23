@@ -1,4 +1,4 @@
-package zad2;
+
 
 public class Lilac extends Flowers {
 
