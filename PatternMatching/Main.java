@@ -1,11 +1,3 @@
-/**
- *
- *  @author Voitenkova Anna S15486
- *
- */
-
-package zad2;
-
 
 public class Main {
 
