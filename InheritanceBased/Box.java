@@ -1,4 +1,3 @@
-package zad2;
 
 public class Box extends BoxParent {
 
