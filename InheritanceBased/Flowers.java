@@ -1,4 +1,3 @@
-package zad2;
 
 public abstract class Flowers {
 
