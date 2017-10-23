@@ -1,10 +1,3 @@
-/**
- *
- *  @author Voitenkova Anna S15486
- *
- */
-
-package ex2;
 
 
 public class Main {
