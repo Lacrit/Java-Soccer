@@ -1,4 +1,3 @@
-package zad2;
 
 public class Freesia extends Flowers {
 
